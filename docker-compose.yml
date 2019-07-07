@@ -1,0 +1,8 @@
+version: '2'
+services:
+  app:
+    container_name: go-api-template
+    build:
+      context: .
+    ports:
+      - 8080:8080

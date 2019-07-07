@@ -40,7 +40,15 @@ make dev
 
 ### On docker
 
-TODO: not yet
+```bash
+docker-compose up
+```
+
+(Build again if Dockerfile is being changed)
+
+```bash
+docker-compose build
+```
 
 ## Play with tasks
 
