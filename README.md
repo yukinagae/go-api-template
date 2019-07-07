@@ -50,6 +50,13 @@ docker-compose up
 docker-compose build
 ```
 
+## Deploy to GAE
+
+```bash
+export PROJECT_ID=[Your GCP project ID]
+make deploy
+```
+
 ## Play with tasks
 
 List tasks
