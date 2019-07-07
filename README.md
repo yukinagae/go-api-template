@@ -56,6 +56,6 @@ Get a task
 curl http://127.0.0.1:8080/todos/todo3
 ```
 
-TODO: Add a task
-TODO: Update a task
-TODO: Delete a task
+TODO: Add a task  
+TODO: Update a task  
+TODO: Delete a task  
