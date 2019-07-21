@@ -8,4 +8,4 @@ prepare:
 	go mod download
 
 deploy:
-	gcloud app deploy --project $PROJECT_ID ./app/app.yaml
+	gcloud app deploy --project ${PROJECT_ID} ./app/app.yaml
